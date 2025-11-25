@@ -4,7 +4,7 @@ A minimal implementation of a GPT-style Transformer language model, trained from
 
 This project is for learning and understanding how modern LLMs work under the hood — including tokenization, embeddings, self-attention, Transformer blocks, and autoregressive text generation. 
 
-It implements the Transformer architecture introduced in the *Attention Is All You Need* paper — a landmark model that laid the foundation for modern LLMs.
+It implements the Transformer architecture introduced in the *Attention Is All You Need* paper — a landmark model that laid the foundation for modern LLMs. This project also follows Andrej Karpathy’s GPT-from-scratch tutorial for guidance.
 
 ---
 
