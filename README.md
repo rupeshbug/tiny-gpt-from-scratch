@@ -10,7 +10,7 @@ It implements the Transformer architecture introduced in the *Attention Is All Y
 
 ## 🚀 Features
 
-- Byte-level tokenizer (simple and easy to understand)
+- Character-level tokenization
 - PyTorch implementation of:
   - Token + positional embeddings
   - Multi-head self-attention
