@@ -15,7 +15,7 @@ It implements the Transformer architecture introduced in the *Attention Is All Y
   - Token + positional embeddings
   - Multi-head self-attention
   - Feed-forward MLP block
-  - Transformer blocks with residual connections & layer norm
+  - Transformer blocks with residual connections & layer normalization
 - Autoregressive (GPT-style) training loop
 - Training on Tiny Shakespeare (≈1 MB of text)
 - Text generation with temperature sampling
